@@ -14,3 +14,7 @@ That's pretty much it
 
 Thanks to Rory's story cubes for giving me the idea of it.
 They're also the images I am using currently but they can be swapped out at any time I find a new set of suitable sprites.
+
+## Reasoning
+
+This was a mini hackathon for me. I limited myself to 4 days to get the idea up and running and by the end of the 3rd day, most of the functionality was done. The 4th day I did nothing, followed by another day of nothing. The day after, I actually decided to finish up the css a bit. So while it wasn't 4 consecutive days, close enough for me. I was deadset on trying out material ui and doing something with sockets and this is what I came up with.
