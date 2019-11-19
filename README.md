@@ -1,4 +1,4 @@
-# 5min DnD
+# [5min DnD](https://cubestory.deploy.sadpanda.moe/)
 
 Pretty simple game. Idea is to come up with random stories and flex the imagination muscles.
 Each person gets a turn to add a sentence or so (140 chars) to the story and play moves on to the next person.
